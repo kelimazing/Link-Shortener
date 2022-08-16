@@ -20,10 +20,10 @@
     "mongoose": "^6.5.2",
     "nanoid": "^4.0.0",
     "shortid": "^2.2.16",
-    "valid-url": "^1.0.9"
+    "valid-url": "^1.0.9",
+    "dotenv": "^16.0.1"
   },
   "devDependencies": {
-    "dotenv": "^16.0.1",
     "nodemon": "^2.0.19"
   }
 }
